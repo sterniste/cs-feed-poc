@@ -34,6 +34,8 @@ testem.log
 /typings
 yarn.lock
 
+/node
+
 # e2e
 /e2e/*.js
 /e2e/*.map
